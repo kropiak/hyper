@@ -147,3 +147,6 @@ public class ChangePosition : MonoBehaviour
 
 **Zadanie 1**  
 Zmodyfikuj parametr `speed` na `speed_z` i dodaj kolejne dwa parametry `speed_y` oraz `speed_x`. Zmodyfikuj aktualny skrypt tak, żeby te parametry miały wpływ na prędkość poruszania się w danej płaszczyźnie.
+
+**Zadanie 2**  
+Stwórz nowy skrypt, w którym wykorzystując metodę `MoveTowards` klasy `Vector3` osiągniesz efekt pozwalający na przypisanie obiektu (targetu), do którego nasz cube będzie się poruszał. Ten target powinien być określany poprzez inspektora poprzez wybranie istniejącego obiektu na scenie.
