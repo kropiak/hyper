@@ -146,4 +146,4 @@ public class ChangePosition : MonoBehaviour
 ```
 
 **Zadanie 1**  
-Zmodyfikuj parametr `speed` na `speed_z` i dodaj kolejne dwa parametry `speed_y` oraz `speed_z`. Zmodyfikuj aktualny skrypt tak, żeby te parametry miały wpływ na prędkość poruszania się w danej płaszczyźnie.
+Zmodyfikuj parametr `speed` na `speed_z` i dodaj kolejne dwa parametry `speed_y` oraz `speed_x`. Zmodyfikuj aktualny skrypt tak, żeby te parametry miały wpływ na prędkość poruszania się w danej płaszczyźnie.
